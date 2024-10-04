@@ -1,4 +1,5 @@
 <h1 align="center"> C Practical Exam</h1>
+<h1> 1 Practical </h1>
 
 ![1 Practical Image](/image/1.png)
 
